@@ -8,6 +8,7 @@ A list of interesting topics.
 - Abstract algebra
 - Statistics
 - Computation
+- Artificial neural networks
 
 ## Recent
 - Control theory 

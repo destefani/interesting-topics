@@ -1,4 +1,4 @@
-# Interesting-Topics
+# Interesting Topics
 A list of interesting topics.
 
 ## For a while

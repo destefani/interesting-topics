@@ -13,3 +13,4 @@ A list of interesting topics.
 ## Recent
 - [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 - [Diferentiable programing](https://en.wikipedia.org/wiki/Differentiable_programming)
+- [Tensor](https://en.wikipedia.org/wiki/Tensor)

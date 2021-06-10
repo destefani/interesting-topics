@@ -2,7 +2,7 @@
 A list of interesting topics.
 
 ## For a while
-- (Information theory)[https://en.wikipedia.org/wiki/Information_theory]
+- [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 - Complex systems
 - Non euclidean spaes
 - Abstract algebra
